@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quantum Computing
 - 🌱 I’m currently learning GQL integration on Graph API
 - 💞️ I’m looking to collaborate on OSS
-- 📫 How to reach me: reach me out on my email: sohom.jgm@gmail.com
+- 📫 How to reach me: currently not active 
 
 <!---
 RandomVariable18/RandomVariable18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
