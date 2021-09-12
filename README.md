@@ -19,12 +19,12 @@
   <!-- Alternate Link for gmail Logo: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg -->
 
 
-### My Profiles
+## My Profiles
 <!-- - [Codeforces](https://codeforces.com/profile/) -->
 - [CodeChef](https://www.codechef.com/users/crazydoggo18)
 - [LeetCode](https://leetcode.com/crazydoggo18)
 
-### Tech Stack
+## Tech Stack
 
 <p align="left">
  <img src="https://img.shields.io/badge/C%2B%2B-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
