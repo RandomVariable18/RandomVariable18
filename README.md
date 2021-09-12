@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RandomVariable18" alt="RandomVariable18" /> </p>
-
 ## Hey 👋, I'm Sohom Majumdar!!
 
 - 👀 I’m interested in Quantum Computing
@@ -78,7 +76,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=RandomVariable18&theme=github" />
  </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RandomVariable18" alt="RandomVariable18" /></p>
 
 <!--
 
