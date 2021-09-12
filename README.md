@@ -1,4 +1,4 @@
-## Hey 👋, I'm Sohom Majumdar!!
+## Hi 👋, I'm Sohom Majumdar!!
 
 - 👀 I’m interested in Quantum Computing
 - 🌱 I’m currently learning GQL integration on Graph API
