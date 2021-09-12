@@ -1,6 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RandomVariable18" alt="RandomVariable18" /> </p>
 
-- 👋 Hi, I’m **Sohom Majumdar**
+## Hey 👋, I'm Sohom Majumdar!!
+
 - 👀 I’m interested in Quantum Computing
 - 🌱 I’m currently learning GQL integration on Graph API
 - 💞️ I’m looking to collaborate on OSS(Currently Inactive)
