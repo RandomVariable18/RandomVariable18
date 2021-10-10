@@ -1,11 +1,37 @@
-## Hi 👋, I'm Sohom Majumdar!!
+<!-- ## Hi 👋, I'm Sohom Majumdar!!-->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Sohom+Majumdar....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-- 👀 I’m interested in Quantum Computing
+<!-- - 👀 I’m interested in Quantum Computing
 - 🌱 I’m currently learning GQL integration on Graph API
 - 💞️ I’m looking to collaborate on OSS(Currently Inactive)
 - 📫 How to reach me: <div >&nbsp;</div>
 <a href="mailto:sohom.jgm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/sohom-majumdar-7082a218a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sohom-majumdar-7082a218a" /></a>
+<a href="https://www.linkedin.com/in/sohom-majumdar-7082a218a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sohom-majumdar-7082a218a" /></a> -->
+
+<p align="center">
+  Hi, I'm Sohom Majumdar a MERN Stack Web Developer and a Competitive Programmer 
+  <br>
+  <br>
+  🎓 I'm currently pursuing B.Tech degree in Computer Science and Technology from IIEST Shibpur
+  <br>
+  💞️ I’m looking to collaborate on OSS(Currently Inactive)
+  <br>
+  🌱 I’m currently learning GQL integration on Graph API
+  <br>
+  💬 Ask me about anything and I will try my best to answer 
+  <br>
+  ⚡ Fun fact: I love to explore new things and test different perspectives
+  <br>
+  📫 How to reach me:  
+  <div align="center">
+<a href="mailto:sohom.jgm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/sohom-majumdar-7082a218a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sohom-majumdar-7082a218a" /></a> </div>
+</p>
+
 
 <!-- - Find out more about me: <br> <a href=" ">
 <img src="https://img.shields.io/badge/resume-pdf-%23181717.svg?&style=for-the-badge&logoColor=white"></img>
@@ -17,12 +43,24 @@
   <!-- Alternate Link for gmail Logo: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg -->
 
 
-## My Profiles
-<!-- - [Codeforces](https://codeforces.com/profile/) -->
-- [CodeChef](https://www.codechef.com/users/crazydoggo18)
-- [LeetCode](https://leetcode.com/crazydoggo18)
+<!-- My Profiles -->
+<h2 align="center">My Profiles</h2>
 
-## Tech Stack
+<!-- - 
+<p align="center">
+ <a href="https://codeforces.com/profile/crazydoggo18">Codeforces</a>
+</p>
+-->
+<p align="center">
+ <a href="https://www.codechef.com/users/crazydoggo18">CodeChef</a>
+</p>
+<p align="center">
+ <a href="https://leetcode.com/crazydoggo18">LeetCode</a>
+ </p>
+
+
+<!-- Tech Stack -->
+<h2 align="center"> Tech Stack </h2>
 
 <p align="left">
  <img src="https://img.shields.io/badge/C%2B%2B-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -58,23 +96,33 @@
 
 <h2 align="center">:zap: Languages Used </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomVariable18&theme=react">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomVariable18&&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true">
 </p>
 
 
 <!-- ### My summary: -->
 <h2 align="center"> My Summary</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RandomVariable18&show_icons=true&theme=react"/>
-</p>
- 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RandomVariable18&theme=react&hide_border=true"/>
-</p>
+<div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=RandomVariable18&theme=react&border=61dafb&hide_border=true" alt="" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=RandomVariable18&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+ </div>
+<br><br><br><br><br><br><br><br><br>  
 
 <p align = "center">
-<img src="https://activity-graph.herokuapp.com/graph?username=RandomVariable18&theme=github" />
+<img src="https://activity-graph.herokuapp.com/graph?username=RandomVariable18&theme=react-dark&bg_color=20232a&hide_border=true" />
  </p>
+ 
+<!-- Profile badges  -->
+<h2 align="center">🏆 Profile Trophy 🏆</h2>
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=RandomVariable18&column=8&theme=onedark&no-frame=true"/>
+</a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RandomVariable18" alt="RandomVariable18" /></p>
 
@@ -82,7 +130,7 @@
 
 Profiles to be added Later
 
-<a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="rajatverma2502" /></a>&nbsp;
+<a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" /></a>&nbsp;
 <a href="https://codepen.com/" target="_blank"><img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt=codepen style="margin-bottom: 5px;" />
 </a>&nbsp;
 <a href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt=""/></a>&nbsp;
