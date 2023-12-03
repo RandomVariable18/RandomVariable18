@@ -13,14 +13,14 @@
 <a href="https://www.linkedin.com/in/sohom-majumdar-7082a218a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sohom-majumdar-7082a218a" /></a> -->
 
 <p align="center">
-  Hi, I'm Sohom Majumdar a MERN Stack Web Developer and a Competitive Programmer 
+  Hi, I'm Sohom Majumdar, a Data Analyst and a MERN Stack Developer
   <br>
   <br>
-  🎓 I'm currently pursuing B.Tech degree in Computer Science and Technology from IIEST Shibpur
+  🎓 I'm a B.Tech graduate in Computer Science and Technology from IIEST Shibpur
   <br>
-  💞️ I’m looking to collaborate on OSS(Currently Inactive)
+  💞️ looking to collaborate on OSS(Currently Inactive)
   <br>
-  🌱 I’m currently learning GQL integration on Graph API
+  🌱 currently an associate at ZS
   <br>
   💬 Ask me about anything and I will try my best to answer 
   <br>
