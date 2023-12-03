@@ -16,7 +16,7 @@
   Hi, I'm Sohom Majumdar, a Data Analyst and a MERN Stack Developer
   <br>
   <br>
-  🎓 I'm a B.Tech graduate in Computer Science and Technology from IIEST Shibpur
+  🎓 A B.Tech graduate in Computer Science and Technology from IIEST Shibpur
   <br>
   💞️ looking to collaborate on OSS(Currently Inactive)
   <br>
